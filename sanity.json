@@ -1,8 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "ivory-gnat",
-    "basePath": "/studio"
+    "name": "ivory-gnat"
   },
   "api": {
     "projectId": "kod2fc7i",
